@@ -3,7 +3,7 @@
 Trender is an experimental Delegated Proof of Stake blockchain with an unproven consensus
 algorithm.
 
-  - Currency symbol Trender
+  - Currency symbol TDC
   - 1.000 Trender block reward at launch
   - 10% APR inflation narrowing to 1% APR over 20 years.
 
